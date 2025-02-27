@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+
+.login-register-button{
+	background-color: #6a0dad;
+	color: white; 
+  	border-radius: 8px;
+  	font-size: 16px;
+  	width:100px;
+  	height:30px;
+  	display:flex;
+  	align-items:center;
+  	padding:10px
+}
+.login-register-button>a{
+	color:white;
+}
